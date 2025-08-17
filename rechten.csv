@@ -1,0 +1,17 @@
+map;share;Groep;NTFS_permission;share_permission
+c:\Corporate\Management;Data_Management;GL_Corporate_Management_R;read;read
+c:\Corporate\Management;Data_Management;GL_Corporate_Management_RW;modify;change
+c:\Corporate\HR;Data_HR;DL_Corporate_HR_R;read;read
+c:\Corporate\HR;Data_HR;DL_Corporate_HR_RW;modify;change
+c:\Corporate\Finance;Data_Finance;DL_Corporate_Finance_R;read;read
+c:\Corporate\Finance;Data_Finance;DL_Corporate_Finance_RW;modify;change
+c:\Operations\IT;Data_IT;GL_Operations_IT_R;read;read
+c:\Operations\IT;Data_IT;GL_Operations_IT_RW;modify;change
+c:\Operations\Production;Data_Production;DL_Operations_Production_R;read;read
+c:\Operations\Production;Data_Production;DL_Operations_Production_RW;modify;change
+c:\Sales\Domestic;Data_Domestic;DL_Operations_Production_R;read;read
+c:\Sales\Domestic;Data_Domestic;DL_Operations_Production_RW;modify;change
+c:\Sales\International;Data_International;DL_Sales_International_R;read;read
+c:\Sales\International;Data_International;DL_Sales_International_RW;modify;change
+C:\Infrastructure;Data_Infrastucture;GL_Infrastructure_R;read;read
+C:\Infrastructure;Data_Infrastucture;GL_Infrastructure_RW;modify;change

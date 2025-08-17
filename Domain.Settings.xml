@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- Copyright (c) Prof-IT Solutions bvba. All rights reserved. -->
+<Settings>
+<Domain>
+<domainname>BelgoCorpxxx.lab</domainname>
+<domainNetbiosName>BelgoCorpxxx</domainNetbiosName>
+<domainExtention>lab</domainExtention>
+<IsDnsIncluded>True</IsDnsIncluded>
+</Domain>
+<FileServer>
+<name>dc01</name>
+</FileServer>
+<UserSettings>
+<defaultPassword>MoetDatNuEcht2025</defaultPassword>
+<homeFolder>
+<location>c:\userhomes</location>
+<sharename>userhomes$</sharename>
+<homeDrive>H</homeDrive>
+</homeFolder>
+<profileFolder>
+<location>c:\userprofiles</location>
+<sharename>userprofiles$</sharename>
+</profileFolder>
+</UserSettings>
+</Settings>

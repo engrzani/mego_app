@@ -1,0 +1,17 @@
+Name;Path
+Corporate
+Management;Corporate
+Executives;Management,Corporate
+Department Heads;Management,Corporate
+HR;Corporate
+Finance;Corporate
+Operations
+IT;Operations
+Development;IT,Operations
+Support;IT,Operations
+Production;Operations
+Manufacturing;Production,Operations
+Quality Assurance;Production,Operations
+Sales;Corporate
+Domestic;Sales,Corporate
+International;Sales,Corporate

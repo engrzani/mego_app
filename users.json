@@ -1,0 +1,89 @@
+{
+    "users": [
+      {
+        "firstName": "Olivier",
+        "lastName": "Dupont",
+        "login": "olivier.dupont",
+        "ou": "Executives",
+        "securityGroups": ["GL_Corporate_Management_RW", "DL_Corporate_HR_RW", "DL_Corporate_Finance_RW"]
+      },
+      {
+        "firstName": "Marie",
+        "lastName": "Peeters",
+        "login": "marie.peeters",
+        "ou": "Department Heads",
+        "securityGroups": ["GL_Corporate_Management_RW", "DL_Corporate_HR_R"]
+      },
+      {
+        "firstName": "Sophie",
+        "lastName": "Janssens",
+        "login": "sophie.janssens",
+        "ou": "HR",
+        "securityGroups": ["DL_Corporate_HR_RW"]
+      },
+      {
+        "firstName": "Thomas",
+        "lastName": "De Smet",
+        "login": "thomas.desmet",
+        "ou": "Finance",
+        "securityGroups": ["DL_Corporate_Finance_RW", "DL_Corporate_HR_R"]
+      },
+      {
+        "firstName": "Emma",
+        "lastName": "Van Damme",
+        "login": "emma.vandamme",
+        "ou": "Development",
+        "securityGroups": ["GL_Operations_IT_RW"]
+      },
+      {
+        "firstName": "Lucas",
+        "lastName": "Verhoeven",
+        "login": "lucas.verhoeven",
+        "ou": "Support",
+        "securityGroups": ["GL_Operations_IT_RW"]
+      },
+      {
+        "firstName": "Alexander",
+        "lastName": "Maes",
+        "login": "alexander.maes",
+        "ou": "Manufacturing",
+        "securityGroups": ["DL_Operations_Production_RW"]
+      },
+      {
+        "firstName": "Julie",
+        "lastName": "De Backer",
+        "login": "julie.debacker",
+        "ou": "Quality Assurance",
+        "securityGroups": ["DL_Operations_Production_RW"]
+      },
+      {
+        "firstName": "Laura",
+        "lastName": "Claes",
+        "login": "laura.claes",
+        "ou": "Domestic",
+        "securityGroups": ["DL_Sales_Domestic_RW", "DL_Sales_International_R"]
+      },
+      {
+        "firstName": "Noah",
+        "lastName": "Willems",
+        "login": "noah.willems",
+        "ou": "International",
+        "securityGroups": ["DL_Sales_International_RW", "DL_Sales_Domestic_R"]
+      },
+      {
+        "firstName": "Dany",
+        "lastName": "De Deken",
+        "login": "dany.dedeken",
+        "ou": "General IT",
+        "securityGroups": ["GL_Operations_IT_RW", "GL_Infrastructure_RW"]
+      },
+      {
+        "firstName": "Patrick",
+        "lastName": "De Meersman",
+        "login": "patrick.demeersman",
+        "ou": "General IT",
+        "securityGroups": ["GL_Operations_IT_RW", "GL_Infrastructure_RW"]
+      }
+    ]
+  }
+  

@@ -1,0 +1,21 @@
+""
+└───scripting
+    │   menuMJ.ps1
+    │   README.txt
+    │
+    ├───logs
+    │       InstalatieLogMJ.txt
+    │
+    ├───modules
+    │       algemeenMJ.psm1
+    │       domainsettingsMJ.psm1
+    │	    loggingMJ.psm1
+    └───settings
+            Computer.Settings.xml
+            Domain.Settings.xml
+            mappen.txt
+            ous.csv
+            rechten.csv
+            securitygroups.csv
+            shares.csv
+            users.json

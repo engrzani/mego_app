@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- Copyright (c) Prof-IT Solutions bvba. All rights reserved. -->
+<Settings>
+<name>dc01xxx</name>
+<networksettings>
+<networkadapter>
+<name>lan</name>
+<macaddress>00-0C-29-C6-71-3D</macaddress>
+<dhcpenabled>false</dhcpenabled>
+<ip>10.1.10.201</ip>
+<prefixlength>24</prefixlength>
+<gateway>10.1.10.201</gateway>
+<dns>10.1.10.201</dns>
+<subnet>255.255.255.0</subnet>
+</networkadapter>
+<networkadapter>
+<name>wan</name>
+<macaddress>00-0C-29-C6-71-33</macaddress>
+<dhcpenabled>true</dhcpenabled>
+<ip></ip>
+<prefixlength>24</prefixlength>
+<gateway></gateway>
+<dns></dns>
+<subnet></subnet>
+</networkadapter>
+<networkadapter>
+<name>lan</name>
+<macaddress>00-0C-29-C6-71-2F</macaddress>
+<dhcpenabled>false</dhcpenabled>
+<ip>10.1.10.202</ip>
+<prefixlength>24</prefixlength>
+<gateway>10.1.10.201</gateway>
+<dns>10.1.10.201</dns>
+<subnet>255.255.255.0</subnet>
+</networkadapter>
+</networksettings>
+</Settings>

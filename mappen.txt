@@ -1,0 +1,9 @@
+c:\data\users\ppienter
+c:\Corporate\Management
+c:\Corporate\HR
+c:\Corporate\Finance
+c:\Operations\IT
+c:\Operations\Production
+c:\Sales\Domestic
+c:\Sales\International
+C:\Infrastructure
